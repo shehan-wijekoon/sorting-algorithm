@@ -1,2 +1,3 @@
 # sorting algorithm
- trying to make a sorting algorithm using python
+ 
+ This program will read the txt file and sort the data(intigers) in acending order and give the output.
